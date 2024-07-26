@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add">Add\n</string>
+    <string name="name">enter new todo</string>
+    <string name="btn_add">Add +</string>
+</resources>
